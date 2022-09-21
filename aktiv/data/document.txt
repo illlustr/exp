@@ -1,0 +1,7 @@
+Request
+0	: Version
+1-9	: Placeholder
+10-	: Resources Name | MD5
+
+News
+
