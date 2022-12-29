@@ -1,7 +1,16 @@
-Request
-0	: Version
-1-9	: Placeholder
-10-	: Resources Name | MD5
+> Request
+	0	: Version
+	1-9	: Placeholder
+	10-	: Resources Name | MD5
 
-News
+> News
+
+
+> Known Issue
+	> C : Core, I : Improvement, R : Rendering, E : Enhancement, U : Usability, A : Animation
+		OS	: Operating system, CPU model & Architecture, GPU Model  & Driver version
+		IS	: Issuen
+		STR	: Step To Reproduce
+		PF	: Possible fixes
+		IM	: Implemented in
 
